@@ -22,8 +22,8 @@ Ideal for administrative tasks, permission automation, or integration into large
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ad-group-member-adder.git
-   cd ad-group-member-adder
+   git clone https://github.com/MrR0b0t19/ADd-Group
+   cd ADd-Group
    ```
 
 2. (Optional) Create and activate a virtual environment:
